@@ -8,5 +8,5 @@
     "start": "node backend/server.js",
     "server": "nodemon backend/server.js",
     "dev": "concurrently \"npm run start\""
-  },
+  }
 }
